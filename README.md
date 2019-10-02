@@ -1,2 +1,0 @@
-# TripsFlutter
-Trips Flutter
